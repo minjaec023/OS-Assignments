@@ -1,0 +1,4 @@
+/tmp/ajou
+a
+b
+c

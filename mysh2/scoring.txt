@@ -1,0 +1,7 @@
+1c1,4
+< /home/ajou/os/mysh2
+---
+> /tmp/ajou
+> a
+> b
+> c

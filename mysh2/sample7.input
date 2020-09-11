@@ -1,0 +1,9 @@
+/bin/rm -rf /tmp/ajou
+/bin /mkdir /tmp/ajou
+/usr/bin/touch /tmp/ajou/a
+/usr/bin/touch /tmp/ajou/b
+/usr/bin/touch /tmp/ajou/c
+cd /tmp/ajou
+pwd
+/never/exists/never/never/never "neee vvv eerr"
+/bin/ls /tmp/ajou

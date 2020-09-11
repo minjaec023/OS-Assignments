@@ -1,0 +1,8 @@
+/bin/rm -rf /tmp/ajou
+/bin/mkdir /tmp/ajou
+/usr/bin/touch /tmp/ajou/a
+/usr/bin/touch /tmp/ajou/b
+/usr/bin/touch /tmp/ajou/c
+cd /tmp/ajou
+pwd
+/bin/ls /tmp/ajou
